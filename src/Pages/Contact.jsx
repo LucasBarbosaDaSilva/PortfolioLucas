@@ -12,7 +12,7 @@ export default class Contact extends Component {
           </div>
           <div className="links-contact">
           <a target="blank" href="mailto:lucassbarbosa.webdev@gmail.com" className="contact-link">
-<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" width="100" alt="logo-gmail" />
+<img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="100" alt="logo-gmail" />
             </a>
             <a target="blank" href="https://wa.me/5532988080152" className="contact-link">
 <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="100" alt="logo whats" />
