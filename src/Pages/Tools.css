@@ -1,0 +1,40 @@
+.section-tools {
+  display: flex;
+  flex-direction: column;
+}
+
+.tools-page {
+  display: flex;
+  background-color: rgb(254, 252, 254);
+  margin-top: 7%;
+  flex-direction: column;
+  align-items: center;
+}
+
+#title-tools {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 40px;
+  color: rgb(80, 1, 125);
+  margin-right: 60px;
+  margin-left: 40px;
+  justify-content: center;
+}
+
+#img-tools {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+
+.footer-div-tools {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(136, 3, 213) ;
+  border: 1px solid black;
+  border-radius: 1px;
+  height: 37px;
+  margin-top: 175px;
+}

@@ -1,0 +1,13 @@
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(254, 252, 254);
+  margin-top: 15%;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 60px;
+  color: rgb(80, 1, 125);
+  margin-right: 60px;
+  margin-left: 40px;
+}

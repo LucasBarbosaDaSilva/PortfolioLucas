@@ -1,0 +1,12 @@
+.section-projects {
+  display: flex;
+  flex-direction: column;
+}
+
+.projects-page {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(254, 252, 254);
+  margin-top: 7%;
+  flex-direction: row;
+}
