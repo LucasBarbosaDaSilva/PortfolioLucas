@@ -11,7 +11,7 @@ export default class Contact extends Component {
           <p className="text-body-contact">If you liked something, have any curiosity or question, you can contact me by sending an email, or accessing my networks!</p>
           </div>
           <div className="links-contact">
-          <a target="blank" href="mailto:lucassbarbosa.webdev@gmail.com" className="contact-link">
+          <a target="blank" href="mailto:lucasbarbosa.webdev@gmail.com" className="contact-link">
 <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="100" alt="logo-gmail" />
             </a>
             <a target="blank" href="https://wa.me/5532988080152" className="contact-link">
