@@ -6,7 +6,80 @@
 .projects-page {
   display: flex;
   justify-content: center;
-  background-color: rgb(254, 252, 254);
+  background-color: white;
   margin-top: 7%;
   flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.box-project {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+  width: 600px;
+  height: 470px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 15px;
+  color: rgb(80, 1, 125);
+  /* border: 1px solid rgb(65, 1, 99); */
+  /* border-radius: 5px; */
+}
+
+.link-projeto {
+  display: flex;
+  border: 1px;
+  border-radius: 5px;
+}
+
+.link-projeto:hover {
+  box-shadow: 0 12px 16px 0 rgb(80, 1, 125),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.link-repositorio {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.link-projeto-card {
+  border: none;
+  background-color: white;
+  justify-content: center;
+  color: rgb(80, 1, 125);
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 18px;
+  margin: 4px 18px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.link-projeto-card:hover {
+  box-shadow: 0 12px 16px 0 rgb(80, 1, 125),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.box-final {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 25px;
+  color: rgb(80, 1, 125);
+  
+}
+
+#final-paragraph {
+  display: flex;
+  margin-right: 20px;
 }
