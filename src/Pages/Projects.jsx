@@ -21,6 +21,20 @@ export default class Projects extends Component {
             
         </div>
         <div className="box-project">
+        <a target="blank" href="https://trivia-project-lucas-barbosa.vercel.app" className="link-projeto">
+<img src="tela-trivia.png" width="580" alt="Tela Trivia" />
+            </a>
+            <h2>Trivia</h2>
+            <p>
+            Group project, using agile methodologies such as Kanban and Scrum, with the objective of developing a question and answer game based on the Trivia game, working on the global state of the application using React and Redux.. To see more, visit the links below.
+            </p>
+            <div className="link-repositorio">
+            <a target="blank" href="https://trivia-project-lucas-barbosa.vercel.app" className="link-projeto-card">Website Link</a>
+            <a target="blank" href="https://github.com/LucasBarbosaDaSilva/trivia-project" className="link-projeto-card">Repository Link</a>
+            </div>
+            
+        </div>
+        <div className="box-project">
         <a target="blank" href="https://github.com/LucasBarbosaDaSilva/react-testing-library-project" className="link-projeto">
 <img src="tela-react-test.png" width="580" alt="Tela React Test" />
             </a>
