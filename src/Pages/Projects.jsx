@@ -8,8 +8,9 @@ export default class Projects extends Component {
         <div className="projects-page">
         <div className="box-project">
         <a target="blank" href="https://trybetunes-project-lucas-barbosa.vercel.app" className="link-projeto">
-<img src="tela-trybetunes.png" width="580" alt="Tela Tryunfo" />
+<img src="tela-trybetunes.png" width="580" alt="Tela TrybeTunes" />
             </a>
+            <h2>TrybeTunes</h2>
             <p>
             Project using ReactRouter, language in JavaScript, the project consists of a simulation of a music site, where first you go through a login page with validation, after login the user is directed to the main page, where it is possible to carry out the search by your preferred artist, as well as bookmarking and editing your profile. To see more, visit the links below.
             </p>
@@ -23,6 +24,7 @@ export default class Projects extends Component {
         <a target="blank" href="https://github.com/LucasBarbosaDaSilva/react-testing-library-project" className="link-projeto">
 <img src="tela-react-test.png" width="580" alt="Tela React Test" />
             </a>
+            <h2>RTL</h2>
             <p>
             Project using the React-Testing-Library, project consists of performing tests in a React application, several tests were carried out, using Mocks with Jest and Mocks of APIs using fetc To see more, visit the link below.
             </p>
@@ -36,6 +38,7 @@ export default class Projects extends Component {
         <a target="blank" href="https://tryunfo-project-lucas-barbosa.vercel.app" className="link-projeto">
 <img src="tryunfo-tela.png" width="580" alt="Tela Tryunfo" />
             </a>
+            <h2>Tryunfo</h2>
             <p>
             Project using React, language in JavaScript, the project consists of a card game, where a form was created to fill in the data of each card, going through the validation process of each item in order to save each card. To see more, visit the links below.
             </p>
@@ -49,6 +52,7 @@ export default class Projects extends Component {
         <a target="blank" href="https://solar-system-project-lucas-barbosa.vercel.app/" className="link-projeto">
 <img src="solar-system-tela.png" width="580" alt="Tela Solar System" />
             </a>
+            <h2>Solar System</h2>
             <p>
             First project using React, language in JavaScript, the project shows the planets of the solar system and all dated space missions, through the creation of components. To see more, visit the links below.
             </p>
@@ -62,6 +66,7 @@ export default class Projects extends Component {
         <a target="blank" href="https://shopping-cart-project-lucas-barbosa.vercel.app" className="link-projeto">
 <img src="tela-shopping-cart.png" width="580" alt="Tela Shopping Cart" />
             </a>
+            <h2>Shopping Cart</h2>
             <p>
             Shopping Cart is a project in JavaScript, HTML5 and css, simulating an e-commerce site using Mercado Livre's API, and DOM manipulation. To see more, visit the links below.
             </p>
